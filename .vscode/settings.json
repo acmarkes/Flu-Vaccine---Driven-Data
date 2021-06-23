@@ -8,6 +8,7 @@
     ],
     "python.testing.pytestEnabled": false,
     "python.testing.nosetestsEnabled": false,
-    "python.testing.unittestEnabled": true,
-    "python.pythonPath": "C:\\Users\\Andrew\\Envs\\fluenv\\Scripts\\python.exe"
+    "python.testing.unittestEnabled": false,
+    "python.pythonPath": "C:\\Users\\Andrew\\Envs\\fluenv\\Scripts\\python.exe",
+    "python.testing.promptToConfigure": false
 }
