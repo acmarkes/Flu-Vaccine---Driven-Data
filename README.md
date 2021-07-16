@@ -5,11 +5,15 @@ You can find more information about the competition [here](https://www.drivendat
 
 ## Repository Structure
 
-*exploration.ipynb - Preliminary analysis and data cleaning.
-*main.py - model training, evaluation, implementation and prediction output.
-*Flu Shot data dictionary.pdf - Explanation of all the attributes in the dataset
-*/data/raw - unprocessed data as downloaded from the competition page
-*/data/processed - treated data used for model training
+* exploration.ipynb - Preliminary analysis and data cleaning.
+
+* main.py - model training, evaluation, implementation and prediction output.
+
+* Flu Shot data dictionary.pdf - Explanation of all the attributes in the dataset
+
+* /data/raw - unprocessed data as downloaded from the competition page
+
+* /data/processed - treated data used for model training
 
 ## How to Run
 
